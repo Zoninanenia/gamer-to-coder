@@ -1,0 +1,70 @@
+{
+  "banner": [
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-banner/01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-banner/02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-banner/03.png"
+  ],
+  "logo": [
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-logo/01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-logo/02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-logo/03.png"
+  ],
+  "wallpaper": [
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/01.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/02.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/03.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/04.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/05.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/06.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/07.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/08.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/09.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/10.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/11.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/12.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/13.jpg",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-wallpaper/14.jpg"
+  ],
+  "benny": [
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-logo/01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-logo/02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-logo/03.png"
+  ],
+  "characters": [
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/assasin_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/benson_03.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/blueguys_02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/goku_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/kid_02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/naruto_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/rabbit_kid_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/skateboard_02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/twintail_02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/bear_kid_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/benson_04.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/cyberguy_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/goku_02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/kid_03.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/ninja_female_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/riding_dragon_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/soilder_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/wizard_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/benson_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/benson_05.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/cyberguy_02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/guitarguy_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/mafia_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/ninja_male_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/samurai_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/superstar_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/yellow_guy_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/benson_02.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/blueguys_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/cyberguy_03.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/kid_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/mascos_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/pig_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/skateboard_01.png",
+    "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/twintail_01.png"
+  ]
+}
