@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blockman go</title>
+
+    <link rel="stylesheet" href="Garena.css" />
+  </head>
+  <body>
+
+    <header>
+      <div id="menu-bar" class="menu-bar"></div>
+
+      <a class="logo" href="#home">
+      <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-logo/01.png" alt="" width="300">
+
+      <nav class="navbar">
+        <div class="container navbar">
+          <a href="#home">Home</a>
+          <a href="#packages">Hot Game</a>
+          <a href="#gallery  ">More Game</a>
+          <a href="#review">Characters</a>
+        </div>
+      </nav>
+
+      <div class="icons">
+        <i class="fas fa-search" id="search-btn"></i>
+        <i class="fas fa-user" id="login-btn"></i>
+      </div>
+
+    </header>
+    <section class="scroll"></section>
+    <script type="text/javascript">
+      window.addEventListener("scroll", function () {
+        var header = document.querySelector("header");
+        header.classList.toggle("sticky", window.scrollY > 0);
+      });
+    </script>
+
+
+    <section class="home" id="home">
+      <div class="content">
+        <h3 class="blockman">Blockman</h3> <h3 class="go">Go</h3>
+        <p>
+          แอปพลิเคชันที่รวมเกมกราฟิกสไตล์บล็อกสุดน่ารักแนว Sandbox ที่เด็กเล่นดี
+          ผู้ใหญ่เล่นได้
+        </p>
+        <a href="https://www.blockmango.com/#/" target="blank" class="btn"
+          >สนุกกับเกมฟรี ได้ที่นี่!</a
+        >
+      </div>
+
+      <div class="controls">
+        <span class="vid-btn active" data-src="images/vid-1.mp4"></span>
+        <span class="vid-btn" data-src="images/vid-2.mp4"></span>
+        <span class="vid-btn" data-src="images/vid-3.mp4"></span>
+        <span class="vid-btn" data-src="images/vid-4.mp4"></span>
+        <span class="vid-btn" data-src="images/vid-5.mp4"></span>
+      </div>
+
+      <div class="video-container">
+        <video
+          src="images/vid-1.mp4"
+          id="video-slider"
+          loop
+          autoplay
+          muted
+        ></video>
+      </div>
+    </section>
+
+
+    <section class="packages" id="packages">
+      <h1 class="heading">
+        <span>H</span>
+        <span>O</span>
+        <span>T</span>
+        <span class="space"></span>
+        <span>G</span>
+        <span>A</span>
+        <span>M</span>
+        <span>E</span>
+      </h1>
+
+      <div class="box-container">
+        <div class="box">
+            <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bedwars/logo.png" alt="" />
+          <div class="content">
+            <h3><i class="fas fa-map-marker-alt"></i> Bed Wars</h3>
+          </h3><i class=></i> Action, PvP, Multiplayer </h3>
+            <p>
+              Bed Wars มินิเกมแนว PVP ที่สามารถตั้งทีมเล่นกับเพื่อน ๆ ได้ ภารกิจที่ผู้เล่นจะได้รับคือการปกป้องเตียงของทีมและทำลายเตียงของทีมศัตรู ร่วมมือกับเพื่อนร่วมทีมในการเก็บของ ฟาร์มอาวุธเช่น เหล็ก ทอง มรกต และเพชรให้ได้มากที่สุด เพื่อป้องกันเตียงและเพิ่มความแรงของอาวุธต่อสู้
+            </p>
+            <div class="stars">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <a
+              href="https://www.blockmango.com/#/game-details/g1046?onlineNumber=12008"target="blank"
+              class="btn"
+              >Play now</a
+            >
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/freecity/logo.png" alt="" />
+          <div class="content">
+            <h3><i class="fas fa-map-marker-alt"></i> Free City</h3>
+          </h3><i class=></i> Simulation, Open-world </h3>
+            <p>
+              เคยนึกภาพตัวเองเป็นเจ้าของร้านกาแฟที่กำลังเตรียมกาแฟยามบ่ายให้กับเพื่อนๆ บ้างไหม?  หรือคุณเคยอยากลองใช้ชีวิตตามบทบาทต่างๆ เช่น ครู พยาบาล ตำรวจ คนขายเบอร์เกอร์ บ้างไหม?     
+              Free City เกมจำลองชีวิตจริงที่คุณกำลังตามหา
+            </p>
+            <div class="stars">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <a
+              href="https://www.blockmango.com/#/game-details/g2052?onlineNumber=2814"target="blank"
+              class="btn"
+              >Play now</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/frontline/logo.png" alt="" />
+          <div class="content">
+            <h3><i class="fas fa-map-marker-alt"></i> Frontline </h3>
+            </h3><i class=></i> Shooting, PvP </h3>
+            <p>
+              เกมจำลองสนามรบ 30 ต่อ 30 คุณจะเล่นเป็นทหารภาคสนามและเข้าสู่แนวหน้าพร้อมกับสหาย 29 คน เพื่อปกป้องตำแหน่งดินแดนของคุณ คุณสามารถใช้อาวุธปืนได้หลากหลาย คุณสามารถขับรถถัง ใช้ปืนไรเฟิลจู่โจมศัตรูจากระยะไกล
+            </p>
+            <div class="stars">
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="fas fa-star"></i>
+              <i class="far fa-star"></i>
+            </div>
+            <a
+             href="https://www.blockmango.com/#/game-details/g2061?onlineNumber=1105"target="blank"
+              class="btn"
+              >Play now</a>
+          </div>
+        </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section class="gallery" id="gallery">
+      <h1 class="heading">
+        <span>M</span>
+        <span>O</span>
+        <span>R</span>
+        <span>E</span>
+        <span class="space"></span>
+        <span>G</span>
+        <span>A</span>
+        <span>M</span>
+        <span>E</span>
+      </h1>
+
+      <div class="box-container">
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/partystreet/partystreet_01.png" alt="" />
+          <div class="content">
+            <h3>Party Street</h3>
+            <h4 style="color:white">Multiplayer , PvP, Party Game</h4>
+            <p>
+              นำสเก็ตที่สะสมได้มาทัวร์ชมย่านเมืองใน Party Street ตามหาภาพวาดที่ซ่อนอยู่ และร่วมทัวร์นาเมนต์แห่งท้องถนนกับพรรคพวกด้วยการทดสอบความสามารถกับผู้เข้าแข่งขันกว่า 30 คน
+            </p>
+            <a href="#" class="btn">Play now</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bulletsfly/bulletsfly_01.png" alt="" />
+          <div class="content">
+            <h3>Bullets Fly</h3>
+            <h4 style="color:white">Battle Royale , Shooting</h4>
+            <p>
+              คุณต้องเอาชีวิตรอดจากการโจมตี ทุกคนต้องกระโดดไปที่เกาะที่ล้อมรอบด้วยกำแพงที่มังกรดำสร้าง พื้นที่เอาชีวิตรอดจะเล็กลง มีทีมเดียวเท่านั้นที่อยู่รอด คุณสามารถเก็บไอเทมจากหีบสมบัติ
+            </p>
+            <a href="#" class="btn">Play now</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/rodentevil/rodentevil_01.png" alt="" />
+          <div class="content">
+            <h3>Rodent Evil</h3>
+            <h4 style="color:white">Horror Adventures , Multiplayers</h4>
+            <p>
+              หนีออกจากบ้านหนูมรณะ! ทำทุกอย่างเพื่อหนีจากบ้านผีสิงนี้ อย่าหันกลับไป! คุณไม่รู้หรอกว่าอะไรกำลังไล่ล่าตามคุณอยู่ ค้นหาปริศนาลึกลับร่วมกับเพื่อนๆของคุณ
+            </p>
+            <a href="#" class="btn">Play now</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/jailbreak/logo.png" alt="" />
+          <div class="content">
+            <h3>Jail Break</h3>
+            <h4 style="color:white">PvP , RPG</h4>
+            <p>
+              ผู้เล่นสามารถเป็นได้ทั้งตำรวจและนักโทษ เมื่อเป็นตำรวจห้ามโจมตีนักโทษเด็ดขาด แต่เมื่อคุณเป็นนักโทษ คุณต้องเก็บหนังสือหากุญแจหรือพลั่วเพื่อแหกคุก
+            </p>
+            <a href="#" class="btn">Play now</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/buildandshoot/buildandshoot_01.jpg" alt="" />
+          <div class="content">
+            <h3>Build and Shoot</h3>
+            <h4 style="color:white">PvP , Shooting</h4>
+            <p>
+              เกมยิงปืนสุดมันส์ที่มีอาวุธมากมายให้เลือก โดยสามารถสร้างบล็อกต่างๆได้อย่างอิสระเพื่อเอาตัวรอด ภายในเกมยังมีระบบช่วยยิงอัตโนมัติ สัมผัสความตื่นเต้นในอีกระดับ
+            </p>
+            <a href="#" class="btn">Play now</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/skyblock/skyblock_01.png" alt="" />
+          <div class="content">
+            <h3>Sky Block</h3>
+            <h4 style="color:white">PvP , Survivle , Open World</h4>
+            <p>
+              Sky Block เป็นเกมที่อยู่ในจักรวาลเกมส์ของ Blockman Go ที่ให้คุณได้สร้างโลกของคุณเอง หรือจะสร้างกับเพื่อนๆของคุณก็ได้ คุณสามารถที่จะสร้างตึก และสร้างเมืองขึ้นมา หรือสำรวจหลุมหลบภัยเพื่อค้นหาทรัพยากรที่มีค่า
+            </p>
+            <a href="#" class="btn">Play now</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/nightatschool/nightatschool_01.png" alt="" />
+          <div class="content">
+            <h3>Night at school</h3>
+            <h4 style="color:white">Horror Adventures , Multiplayers</h4>
+            <p>
+              โรงเรียนเลิกแล้ว แต่คุณกลับถูกขังอยู่ภายในโรงเรียน ทุกอย่างที่เคยปกติกลับกลายเป็นเรื่องสยองขวัญยามค่ำคืน ร่วมไขปริศนา หลบหนีสัตว์ประหลาด และหาทางออกจากโรงเรียนไปกับเพื่อนของคุณให้ได้
+            </p>
+            <a href="#" class="btn">Play now</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/district13/district13_01.png" alt="" />
+          <div class="content">
+            <h3>District 13</h3>
+            <h4 style="color:white">PvP , Open World , Action</h4>
+            <p>
+              นี่คือเขตที่เต็มไปด้วยความปั่นป่วนและอันตราย! คุณหาที่อยู่อาศัยที่นี่ได้ แต่ไม่รับประกันความปลอดภัย คุณสามารถต่อสู้เพื่อเอาชีวิตรอดและเข้าร่วมแก๊งเพื่อทำภารกิจในการสะสมทรัพยากรภายในเกม
+            </p>
+            <a href="#" class="btn">Play now</a>
+          </div>
+        </div>
+
+        <div class="box">
+          <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-banner/01.png" alt="" />
+          <div class="content">
+            <h3> </h3>
+            <p>
+              
+            </p>
+            <br> <br> <br> <br>
+            <a href="#" class="btn">see more</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <section class="Characters" id="Characters">
+      <h1 class="heading">
+        <span>C</span>
+        <span>h</span>
+        <span>a</span>
+        <span>r</span>
+        <span>a</span>
+        <span>c</span>
+        <span>t</span>
+        <span>e</span>
+        <span>r</span>
+        <span>s</span>
+      </h1>
+
+      <div class="swiper-container review-slider">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="box">
+              <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/twintail_02.png" alt="" />
+              <h3>Twintail</h3>
+              <p></p>
+              <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="box">
+              <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/benson_03.png" alt="" />
+              <h3>Benson</h3>
+              <p></p>
+              <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <div class="box">
+              <img src="https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bmg-characters/skateboard_02.png" alt="" />
+              <h3>Skateboard</h3>
+              <p></p>
+              <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="far fa-star"></i>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+    <script src="Garena.js"></script>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="footer-col">
+            <h4>Games</h4>
+            <ul>
+              <li><a href="#">Bed Wars</a></li>
+              <li><a href="#">Free City</a></li>
+              <li><a href="#">Frontline</a></li>
+              <li><a href="#">Party Street</a></li>
+              <li><a href="#">Bullets Fly</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <ul>
+              <li><a href="#">Rodent Evil</a></li>
+              <li><a href="#">Jail Break</a></li>
+              <li><a href="#">Build and Shoot</a></li>
+              <li><a href="#">Sky Block</a></li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h4>follow us</h4>
+            <div class="social-links">
+              <ul>
+                <li><a href="https://www.facebook.com/blockmango/" target="blank">Facebook</a></li>
+                <li><a href="https://www.instagram.com/blockmango_en/" target="blank">Instargram</a></li>
+                <li><a href="https://mobile.twitter.com/blockmango_en"target="blank">  twitter</a></li>
+                
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+   </footer>
+  </body>
+</html>
