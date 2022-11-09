@@ -1,0 +1,157 @@
+[
+  {
+    "no": 1,
+    "name": "Bed Wars",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bedwars/logo.png",
+    "genre": ["Action", "PvP", "Multiplayer"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bedwars/bedwars_01.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bedwars/bedwars_02.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bedwars/bedwars_03.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bedwars/bedwars_04.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bedwars/bedwars_05.png"
+    ],
+    "description": "Bed Wars มินิเกมแนว PVP ที่สามารถตั้งทีมเล่นกับเพื่อน ๆ ได้ ภารกิจที่ผู้เล่นจะได้รับคือการปกป้องเตียงของทีมและทำลายเตียงของทีมศัตรู ร่วมมือกับเพื่อนร่วมทีมในการเก็บของ ฟาร์มอาวุธเช่น เหล็ก ทอง มรกต และเพชรให้ได้มากที่สุด เพื่อป้องกันเตียงและเพิ่มความแรงของอาวุธต่อสู้"
+  },
+  {
+    "no": 2,
+    "name": "Free City",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/freecity/logo.png",
+    "genre": ["Simulation", "Open-world"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/freecity/freecity_01.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/freecity/freecity_02.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/freecity/freecity_03.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/freecity/freecity_04.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/freecity/freecity_05.png"
+    ],
+    "description": "เคยนึกภาพตัวเองเป็นเจ้าของร้านกาแฟที่กำลังเตรียมกาแฟยามบ่ายให้กับเพื่อนๆ บ้างไหม?  หรือคุณเคยอยากลองใช้ชีวิตตามบทบาทต่างๆ เช่น ครู พยาบาล ตำรวจ คนขายเบอร์เกอร์ บ้างไหม? Free City เกมจำลองชีวิตจริงที่คุณกำลังตามหา"
+  },
+  {
+    "no": 3,
+    "name": "Frontline",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/frontline/logo.png",
+    "genre": ["Shooting", "PvP"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/frontline/frontline_01.jpg"
+    ],
+    "description": "เกมจำลองสนามรบ 30 ต่อ 30 คุณจะเล่นเป็นทหารภาคสนามและเข้าสู่แนวหน้าพร้อมกับสหาย 29 คน เพื่อปกป้องตำแหน่งดินแดนของคุณ คุณสามารถใช้อาวุธปืนได้หลากหลาย คุณสามารถขับรถถัง ใช้ปืนไรเฟิลจู่โจมศัตรูจากระยะไกล"
+  },
+  {
+    "no": 4,
+    "name": "Party Street",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/partystreet/logo.png",
+    "genre": ["Multiplayer", "PvP", "Party Game"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/partystreet/partystreet_01.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/partystreet/partystreet_02.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/partystreet/partystreet_03.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/partystreet/partystreet_04.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/partystreet/partystreet_05.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/partystreet/partystreet_06.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/partystreet/partystreet_07.png"
+    ],
+    "description": "ยินดีต้องรับสู่ Party Street! คุณสามารถนำสเก็ตที่สะสมได้มาทัวร์ชมย่านเมืองใน Party Street และตามหาภาพวาดที่ซ่อนอยู่ในแต่ละจุดของเมือง นอกจากนี้ร่วมทัวร์นาเมนต์แห่งท้องถนนกับพรรคพวกด้วยการทดสอบความสามารถกับผู้เข้าแข่งขันกว่า 30 คน เพื่อชิงตำแหน่ง Street King มาพิสูจน์กันว่าใครคือผู้ที่ปราดเปรียวที่สุดในย่านนี้"
+  },
+  {
+    "no": 5,
+    "name": "Bullets Fly",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bulletsfly/logo.png",
+    "genre": ["Battle Royale", "Shooting"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bulletsfly/bulletsfly_01.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bulletsfly/bulletsfly_02.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/bulletsfly/bulletsfly_03.png"
+    ],
+    "description": "ยินดีต้อนรับสู่ Bullets Fly! โหมดเกมยิงปืนเอาชีวิตรอด คุณต้องเอาชีวิตรอดเพื่อหนีการโจมตีของมังกรดำ ทุกต้องกระโดดร่วมไปที่เกาะแห่งหนึ่งที่ล้อมรอบด้วยกำแพงที่มังกรดำสร้างขึ้น โดยที่พื้นที่สำหรับการเอาชีวิตรอดจะเล็กลงเรื่อยๆ แต่จะมีเพียงทีมเดียวเท่านั้นที่จะอยู่รอดจนถึงจบเกม คุณสามารถเก็บอาวุธและไอเทมต่างๆโดยค้นหาจากหีบสมบัติภายในเกาะจงเอาตัวรอดและอยู่ในเขตปลอดภัยเพื่อเป็นคนสุดท้ายที่เหลืออยู่"
+  },
+  {
+    "no": 6,
+    "name": "Rodent Evil",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/rodentevil/logo.png",
+    "genre": ["Horror Adventures", "Multiplayers"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/rodentevil/rodentevil_01.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/rodentevil/rodentevil_02.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/rodentevil/rodentevil_03.png"
+    ],
+    "description": "หนีออกจากบ้านหนูมรณะให้ได้! ทำทุกอย่างเพื่อหนีออกจากบ้านผีสิงนี้ อย่าหันกลับไปเด็ดขาด! คุณไม่รู้หรอกว่าอะไรกำลังไล่ล่าตามหลังคุณอยู่ หากความจริงเบื้องหลังความสยองขวัญนี้ ค้นหาปริศนาลึกลับร่วมกับเพื่อนๆของคุณ"
+  },
+  {
+    "no": 7,
+    "name": "Jail Break",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/jailbreak/logo.png",
+    "genre": ["PvP", "RPG"],
+    "images": null,
+    "description": "ในเมืองนี้ ผู้เล่นจะสามารถเป็นได้ทั้งตำรวจและนักโทษ เมื่อเล่นเป็นตำรวจ คุณจะต้องห้ามโจมตีนักโทษเด็ดขาด ถ้าคุณโจมตีนักโทษ คุณจะต้องเข้าคุกแทน หน้าที่ของคุณก็คือต้องจำกุนักโทษร้ายแรงที่อยู่ข้างนอก ไปตามจับกุมเพื่อรับรางวัลมากมาย เมื่อเล่นเป็นนักโทษ คุณจะต้องเก็บหนังสือเพื่อหากุญแจหรือพลั่วเพื่อแหกคุกออกมา"
+  },
+  {
+    "no": 8,
+    "name": "Build and Shoot",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/buildandshoot/logo.png",
+    "genre": ["PvP", "Shooting"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/buildandshoot/buildandshoot_01.jpg"
+    ],
+    "description": "เกมยิงปืนสุดมันส์ที่มีอาวุธมากมายให้เลือก โดยคุณสามารถสร้างบล็อกต่างๆได้อย่างอิสระเพื่อเอาตัวรอด ภายในเกมยังมีระบบช่วยยิงอัตโนมัติของอาวุธปืน สัมผัสความตื่นเต้นในอีกระดับ"
+  },
+  {
+    "no": 9,
+    "name": "Sky Block",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/skyblock/logo.png",
+    "genre": ["PvP", "Survivle", "Open World"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/skyblock/skyblock_01.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/skyblock/skyblock_02.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/skyblock/skyblock_03.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/skyblock/skyblock_04.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/skyblock/skyblock_05.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/skyblock/skyblock_06.png"
+    ],
+    "description": "Sky Block เป็นเกมที่อยู่ในจักรวาลเกมส์ของ Blockman Go ที่ให้คุณได้สร้างโลกของคุณเอง หรือจะสร้างกับเพื่อน ๆ ของคุณก็ได้เช่นเดียวกัน คุณสามารถที่จะสร้างตึก และแม้แต่สร้างเมืองขึ้นมา หรือสำรวจหลุมหลบภัยเพื่อค้นหาทรัพยากรที่มีค่าต่าง ๆ ใน Sky Block คุณสามารถที่จะท่องเที่ยวไปยังสถานที่ที่น่าสนใจต่างๆ ในมือหนึ่ง คุณจะมีถ้ำที่มีของต่าง ๆ ที่คุณสามารถที่จะต่อสู้เหล่าสัตว์ประหลาด หรือแม้แต่สู้กับผู้เล่นคนอื่น ๆ เพื่อที่จะได้รับทรัพยากรที่ดีมากยิ่งขึ้นสำหรับการใช้ในเกมส์ และในอีกมือหนึ่ง คุณก็จะมีธุรกิจเหมืองของคุณที่คุณจะได้รับแร่ธาตุที่มีค่าโดยอัตโนมัติ นอกจากน้ัน คุณยังมีโลกที่สร้างสรรค์ ที่คุณสามารถที่จะสร้างตึกรามบ้านช่อง และรวมตึกเหล่านั้นให้กลายเป็นเมืองหลักของคุณ"
+  },
+  {
+    "no": 10,
+    "name": "Egg Wark",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/logo.png",
+    "genre": ["PvP", "Multiplayer", "Action"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_01.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_02.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_03.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_04.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_05.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_06.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_07.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_08.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_09.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/eggwar/eggwar_10.png"
+    ],
+    "description": "ผู้เล่นจะต้องปกป้องไข่มังกรจากทีมศัตร์ที่จ้องจะทำลายไข่มังกรของทีมเรา ผู้เล่นสามารถเก็บแต้มทรัพยากรได้ด้วยการรวมรวมทรัพยากรที่เกาะส่วนกลาง และอัปเกรดไอเทมเพื่อให้ทีมเติบโตเร็วยิ่งขึ้น ผู้เล่นสามารถปกป้องไข่มังกรด้วยการวางออบซิเดียนไว้รอบๆ! ร่วมสู้รบเพื่อปกป้องไข่มังกรของเรา"
+  },
+  {
+    "no": 11,
+    "name": "District 13",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/district13/logo.png",
+    "genre": ["PvP", "Open World", "Action"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/district13/district13_01.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/district13/district13_02.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/district13/district13_03.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/district13/district13_04.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/district13/district13_05.png"
+    ],
+    "description": "นี่คือเขตที่เต็มไปด้วยความปั่นป่วนและอันตราย! คุณหาที่อยู่อาศัยที่นี่ได้ แต่ไม่รับประกันความปลอดภัย คุณสามารถต่อสู้เพื่อเอาชีวิตรอดและเข้าร่วมแก๊งเพื่อทำภารกิจในการสะสมทรัพยากรภายในเกม"
+  },
+  {
+    "no": 12,
+    "name": "Night at school",
+    "icon": "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/nightatschool/logo.png",
+    "genre": ["Horror Adventures", "Multiplayers"],
+    "images": [
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/nightatschool/nightatschool_01.png",
+      "https://cdngarenanow-a.akamaihd.net/webth/cdn/garena/gamertocoder/nightatschool/nightatschool_02.png"
+    ],
+    "description": "โรงเรียนเลิกแล้ว แต่คุณกลับถูกขังอยู่ภายในโรงเรียน ทุกอย่างที่เคยปกติกลับกลายเป็นเรื่องสยองขวัญยามค่ำคืน ร่วมไขปริศนา หลบหนีสัตว์ประหลาด และหาทางออกจากโรงเรียนไปกับเพื่อนของคุณให้ได้"
+  }
+]
